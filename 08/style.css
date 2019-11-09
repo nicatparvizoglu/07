@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif
+
+
+}
+/* Stylish Start */
+.stylish{
+    background:url(https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/img/bg-masthead.jpg) ;
+    padding: 250px 0;
+    background-repeat: no-repeat ;
+    background-size: cover;
+    text-align: center;
+}
+ .stylish input{
+    background:#1d809f;
+    
+}
+.stylish p{
+    font-style: italic;
+    line-height: 1.2em;
+    font-size: 1.75rem;
+    font-weight: 900;
+}
+.stylish h1{
+    font-size: 5.5rem;
+    margin-bottom: 25px;
+    font-family:'Source Sans Pro';
+}
+.stylish input:hover{
+ background:#155d74;
+ color:white
+}
+/* Staylish End */
+
+
+/* We offer start */
+.weoffer{
+    text-align: center;
+    padding: 150px 0;
+
+}
+.weoffer h1{
+    font-size: 2.5em;
+
+}
+.weoffer p{
+    font-weight: 300;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+}
+.weoffer input{
+    background: #343a40;
+   
+}
+.weoffer input:hover{
+    background: #23272b;
+    color: #fff;
+}
+.weoffer p a{
+    text-decoration: none;
+
+}
+.weoffer p a:hover{
+    border-bottom: 1px solid blue;
+}
+
+/* We offer end */
+
+
+.btn1{
+    border: none;
+    padding: 27px 52px;
+    color: #fff;
+    border-color: #1d809f;
+    font-weight: 700;border-radius: 4px;
+    transition: background 0.3s;
+    margin-top: 25px;
+}
+
+/* Services start */
+
+.services-content i{
+    color: black;
+    color: #fff ;
+}
+.services{
+    background-color: #1d809f;
+    color: #fff ;
+    padding: 15px 0;
+    text-align: center;
+}
+.services-top p{
+    color: #ecb807;
+
+    
+}
+.services-top h1{
+    color: #fff;
+}
+
+.services-content .services-item{
+    float: left;
+    width: 25%;
+}
+.services-content .services-icon i{
+    background: #fff;
+    padding: 25px;
+    border-radius: 100%;
+    color: black; 
+    margin: auto;  
+
+}
+
+
+/* Services End */
